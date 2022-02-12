@@ -207,3 +207,4 @@ if __name__ == '__main__':
     another_linked_list = LinkedList()
     another_linked_list.make_a_new_linked_list()
     print(another_linked_list.traverse_linked_list())
+    print("++++++++++++++++++++")
